@@ -1,0 +1,5 @@
+Credentials cache: API:63AA0DB4-8E70-4CFD-A69F-A6EB306E7F24
+        Principal: msteak@MSK.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Feb 15 17:22:09 2021  Feb 16 03:21:47 2021  krbtgt/MSK.21-SCHOOL.RU@MSK.21-SCHOOL.RU
